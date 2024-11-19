@@ -1,7 +1,7 @@
 
 # Projekt: Shooter in Monogame
 
-Mit Studenten meines Semesters
+Projekt Mit Studenten meines Semesters
 
 Dokumentation folgt
 
