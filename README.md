@@ -1,9 +1,13 @@
 
 # Projekt: Shooter in Monogame
 
-Projekt Mit Studenten meines Semesters
+Projekt mit Kommilitonen meines Semesters
+Ein reines Spaßprojekt, ohne kommerzielle Absichten.
 
-Dokumentation folgt
+Aktueller Status: Es wird privat auf einer anderen Plattform gehostet.
+Dies ist ein Zwischenstand
+
+Ausführliche Dokumentation folgt
 
 ## Info
 
